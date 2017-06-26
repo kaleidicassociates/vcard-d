@@ -1,0 +1,5 @@
+name "kaleidic-email-vcard-util"
+description "Utilities for parsing vcards"
+copyright "Copyright © 2016, Laeeth Isharc"
+authors "Laeeth Isharc"
+targetType "library"
